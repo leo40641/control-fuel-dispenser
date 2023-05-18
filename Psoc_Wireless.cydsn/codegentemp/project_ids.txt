@@ -1,0 +1,6 @@
+D:\Empresa\Christian\Versiones\Github\FCS\Integrador\Wireless\Psoc_Wireless.cydsn\Psoc_Wireless.cyprj|ed7ca194-2c40-4afa-beac-351aa60d844e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|905d8899-ddb8-4dd6-97d2-e6ee25518ca8
+C:\Users\chris\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|cb96f1d9-8eb0-4822-8f8f-2c164ec82e93
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|eb1d635b-4001-4aa3-96d5-dceb7f642164
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6cd8dc25-68d9-4df0-867e-48147ffa4684
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d6ac572f-015c-49ed-96ce-8d1d61b4f77f
