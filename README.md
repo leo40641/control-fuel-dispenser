@@ -7,7 +7,7 @@ Control and automation of a fuel dispenser with 4 filling positions.
    - Barcode Reader.
    - XBee Pro S3B.
 - Software:
-   - Psoc Creator
+   - Psoc Creator.
    - XCTU.
    - Altium Designer.
 - Programming Language:
